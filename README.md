@@ -1,4 +1,4 @@
-# CRUD-API-Ajax
+# CRUD-API-Ajax (simple and easy)
 
 Create CRUD API Ajax with using:
 
